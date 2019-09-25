@@ -1,0 +1,179 @@
+/*
+font-family: 'Heebo', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+@media (min-width: 941px){
+	
+@charset "utf-8";
+
+body {
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    }
+
+header {
+    margin: 1em 0 2em 0;
+}
+
+header img {
+    width: 100%;
+}
+
+#container {
+    background-color: whitesmoke;
+    height: 80%;
+    width; 100%;
+    padding: 0;
+    margin: 0 auto 0 auto;
+    min-width: 43em;
+    max-width: 58em;
+}
+
+a div.navigation_a {
+    float: left;
+    min-width: 1em;
+    min-height: 6.9em;
+    max-height: 50em;
+    max-width: 50em;
+    width: 41.3%;
+    background: url(bank-phrom-Tzm3Oyu_6sk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: grey;
+    margin: 1em 0.5em 1em 1em;
+    padding: 4em 0.5em 2em 0.5em;
+    color: white;
+    font-family: 'Heebo', sans-serif;
+    font-size: 2em;
+    vertical-align: middle;
+    text-transform: uppercase;
+    text-align: center;
+    filter: grayscale(75%);
+}
+    
+a div.navigation_a:hover {
+    filter: grayscale(0%);
+}
+
+a div.navigation_b {
+    float: left;
+    min-width: 1em;
+    min-height: 7.7em;
+    max-height: 50em;
+    max-width: 50em;
+    width: 41.3%;
+    background: url(meagan-carsience-R6tmHpG0T7o-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: grey;
+    margin: 1em 1em 1em 0.5em;
+    padding: 1.8em 0.5em 2em 0.5em;
+    color: white;
+    font-family: 'Heebo', sans-serif;
+    font-size: 2em;
+    vertical-align: middle;
+    text-transform: uppercase;
+    text-align: center;
+    filter: grayscale(75%);
+}
+
+a div.navigation_b:hover {
+    filter: grayscale(40%);
+}
+
+#footer {
+    width: 60%;
+    min-height: 5em;
+    border-top: 2px solid black;
+    margin: 44em auto 0 auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+}
+    
+#footer_news {
+    width: 60%;
+    min-height: 5em;
+    border-top: 2px solid black;
+    margin: 104em auto 0 auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+    font-weight: 300;
+}
+    
+#footer_pr {
+    width: 60%;
+    min-height: 5em;
+    border-top: 2px solid black;
+    margin: 81.4em auto 0 auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+    font-weight: 300;
+}
+    
+.text {
+    float: left;
+    width: 50em;
+    margin: -2em 2em 1em 2em;
+}
+    
+h3 {
+    font-family: 'Heebo', sans-serif;
+    font-size: 2em;
+}
+    
+p {
+   font-family: 'Roboto', sans-serif;
+}
+    
+.text ul li {
+    font-family: 'Roboto', sans-serif;
+}
+    
+.arrows {
+    width: 54em;
+    height: 1.5em;
+    float: left;
+    padding: 2em 2em 0 2em;
+}
+
+.arrow_left:hover {
+    filter: opacity(60%);
+}
+
+.arrow_right:hover {
+    filter: opacity(60%);
+}
+    
+.arrow_left {
+    float: left;
+    margin: 0 0.2em 0 0;
+}
+    
+.arrow_left_gray {
+    float: left;
+    margin: 0 0 0 0;
+    filter: opacity(40%);
+}
+    
+.arrow_right_gray {
+    float: right;
+    margin: 0 0 0 0;
+    filter: opacity(40%);
+}
+    
+.arrow_right {
+    float: right;
+    margin: 0 0 0 0.2em;
+}
+    
+h5 {
+    font-family: 'Heebo', sans-serif;
+    font-size: 1.3em;
+}
+
+}
